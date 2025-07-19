@@ -1,2 +1,2 @@
 import os
-TOKEN = os.getenv("BOT_TOKEN")
+TOKEN = 7021951051:AAGJsZZNWnbDoJLrDbybeidcvc377Q9Zteg
